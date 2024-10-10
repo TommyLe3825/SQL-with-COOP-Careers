@@ -3,4 +3,4 @@
 
 A database is an organized collection of data that is stored electronically
 * We start from the basics of data retrieval(SELECT, ORDER BY, SUM) to combining data from multiple tables(JOIN and UNION).
-* The last part is like a Murder Mystery 😲
+* The last part is like a Murder Mystery Game (Will be added soon)😲
